@@ -1,2 +1,2 @@
 # bertoti
-Repositório para atividades da disciplina Engenharia de Software
+Repositório para atividades do professor Bertoti no curso de Banco de DAdos da FATEC DE SÃO JOSÉ DOS CAMPOS
